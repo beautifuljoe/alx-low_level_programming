@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * ptint_alphabet - print all in lower case
+ * ptint_alphabet - print all alphabet in lower case
  */
 
 void print_alphabet(void);

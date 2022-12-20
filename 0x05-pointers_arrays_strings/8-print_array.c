@@ -1,8 +1,9 @@
 #include "main.h"
+#include <stdio.h>
 /**
- * print_array - check the code for each element
- * @a: is the array
- * @n: is the lot
+ * print_array - check the code for Holberton School students.
+ * @a: is the array.
+ * @n: is the size.
  */
 void print_array(int *a, int n)
 {
